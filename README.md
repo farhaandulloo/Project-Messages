@@ -4,4 +4,4 @@
 ----------
 
 ## Project Brief
-A random message generator that creates spurious facts about famous composers, implemented in JavaScript. 
+A random message generator that creates spurious facts about famous fighters and leaders, implemented in JavaScript. 
